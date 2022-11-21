@@ -1,6 +1,6 @@
 import requests
 
-name = 'Carlota+Pi+Amoros'
+name = 'Name+Surname1+Surname2'
 query_google = 'https://www.google.com/search?q='
 
 site = 'site:www.linkedin.com'
