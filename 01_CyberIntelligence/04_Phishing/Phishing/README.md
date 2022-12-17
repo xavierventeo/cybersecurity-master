@@ -14,3 +14,12 @@
 ###     - Iniciar página facebook https://localhost/phishing/fa
 ###     - Parar XAMPP: sudo /opt/lampp/lampp stop 
 
+# Pharming
+
+###  Modificar fichero host para que la web de facebook vaya a loca
+###  vi /etc/hosts
+###  poner: 127.0.0.1     facebook.com
+###  limpiar caché del navegador y refrescar
+###  Si es necesario renombrar la carpeta phishing por dashboard
+
+
