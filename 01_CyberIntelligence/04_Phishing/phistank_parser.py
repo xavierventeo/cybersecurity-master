@@ -1,5 +1,6 @@
 
 #Phistank es una página dónde se reportan casos de phishing
+#Phistank no tiene abierta la opción para registrarse como usuario y poder utilizar la API del RSS
 from urllib.request import urlopen
   
 import json
